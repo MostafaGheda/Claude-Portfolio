@@ -8,8 +8,8 @@
   --card: #1E3A5F;
   --card-hover: #243F6A;
   --white: #E6F1FF;
-  --font-head: 'Inter', Roboto;
-  --font-body: 'Inter', Roboto;
+  --font-head: 'DM Sans', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
