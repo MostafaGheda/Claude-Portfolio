@@ -9,7 +9,7 @@
   --card-hover: #243F6A;
   --white: #E6F1FF;
   --font-head: 'Syne', sans-serif;
-  --font-body: 'DM Sans', sans-serif;
+  --font-body: 'Inter', Roboto;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
