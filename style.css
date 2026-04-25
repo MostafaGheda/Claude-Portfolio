@@ -837,7 +837,20 @@ section {
   box-shadow: 0 8px 25px rgba(0,0,0,0.2);
 }
 
-.contact-item-icon { font-size: 1.2rem; }
+.contact-item-icon {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+}
+
+.contact-item-icon svg {
+  display: block;
+  flex-shrink: 0;
+}
 
 /* ─── LIGHTBOX ───────────────────────────────────────── */
 .lightbox {
